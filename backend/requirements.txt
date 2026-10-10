@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+pwdlib[argon2]
+PyJWT
+python-multipart
+pandas
+openpyxl
+xlrd
+numpy
+# Dev / test
+pytest
+httpx
+pytest-asyncio

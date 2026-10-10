@@ -1,0 +1,17 @@
+sample_date,station_id,station_name,latitude,longitude,pH,turbidity,tds,temperature,dissolved_oxygen,conductivity,nitrate,source,notes
+2024-01-15 08:00,ST001,Mula River Pune,18.5204,73.8567,7.2,2.1,180,24.5,6.8,320,4.5,IMPORTED,Morning sample
+2024-01-15 09:00,ST002,Bhandardara Reservoir,19.548,73.758,6.9,1.8,160,22.0,7.1,290,3.2,IMPORTED,
+2024-01-15 10:00,ST003,Yerla Borewell,18.4972,73.8631,7.4,0.9,210,26.0,5.9,380,5.1,IMPORTED,Borewell sample
+2024-01-16 08:00,ST001,Mula River Pune,18.5204,73.8567,7.5,3.9,220,25.0,5.9,360,6.1,IMPORTED,After rainfall
+2024-01-16 08:00,ST002,Bhandardara Reservoir,19.548,73.758,7.0,2.2,170,21.5,7.0,295,3.5,IMPORTED,
+2024-01-17 08:00,ST001,Mula River Pune,18.5204,73.8567,6.3,5.2,280,25.5,4.8,420,8.9,IMPORTED,Anomaly detected — high turbidity
+2024-01-17 09:00,ST004,Indrayani River Alandi,18.6775,73.8982,7.1,1.5,155,23.0,7.3,280,2.8,IMPORTED,
+2024-01-18 08:00,ST001,Mula River Pune,18.5204,73.8567,7.3,2.8,195,24.8,6.5,335,4.8,IMPORTED,Recovery after event
+2024-01-18 08:00,ST005,Panshet Dam Outflow,18.3128,73.6672,7.6,1.1,140,20.5,7.5,260,2.1,IMPORTED,Dam outflow
+2024-01-19 08:00,ST002,Bhandardara Reservoir,19.548,73.758,6.8,1.9,165,21.8,7.0,285,3.3,IMPORTED,
+2024-01-19 08:00,ST003,Yerla Borewell,18.4972,73.8631,7.5,0.8,215,26.2,5.8,385,5.3,IMPORTED,
+2024-01-20 08:00,ST001,Mula River Pune,18.5204,73.8567,7.1,2.4,185,24.3,6.7,325,4.6,IMPORTED,
+2024-01-20 09:00,ST004,Indrayani River Alandi,18.6775,73.8982,7.2,1.6,158,23.2,7.2,282,2.9,IMPORTED,
+2024-01-21 08:00,ST005,Panshet Dam Outflow,18.3128,73.6672,7.7,1.0,138,20.2,7.6,258,2.0,IMPORTED,
+2024-01-21 10:00,ST001,Mula River Pune,18.5204,73.8567,8.6,4.8,245,24.9,4.2,410,9.5,IMPORTED,High pH alert — potential pollution event
+2024-01-22 08:00,ST001,Mula River Pune,18.5204,73.8567,7.8,3.1,200,25.1,6.1,345,5.0,IMPORTED,Post-event monitoring
